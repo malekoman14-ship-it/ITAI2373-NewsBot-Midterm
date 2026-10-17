@@ -113,7 +113,7 @@ These tools support data processing, NLP analysis, visualization, machine learni
 
 ### Step 1: Download the Notebook
 
-Download the completed `NewsBot_Intelligence_System.ipynb` file from this GitHub repository.
+Download the completed `ITAI2373_NewsBot_Midterm.ipynb` file from this GitHub repository.
 
 ### Step 2: Open Google Colab
 
